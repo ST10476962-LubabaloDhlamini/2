@@ -94,7 +94,7 @@ Websites & Non-Profit Resources:
 - Creative Commons. (2025) *Free Images and Media*. [online] Available at: https://creativecommons.org [Accessed 27 Aug. 2025].  
 - W3Schools. (2025) *HTML Tutorial*. [online] Available at: https://www.w3schools.com/html/ [Accessed 27 Aug. 2025].  
 - MDN Web Docs. (2025) *CSS Basics*. [online] Available at: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics [Accessed 27 Aug. 2025].  
-- GitHub. (2025) *Git Documentation*. [online] Available at: https://docs.github.com/en/get-started/quickstart [Accessed 27 Aug. 2025].  
+
 
 **Images / Icons:**  
 - Pixabay. (2025) *Free Images for Non-Profit Websites*. [online] Available at: https://pixabay.com [Accessed 27 Aug. 2025].  
